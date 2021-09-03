@@ -1,0 +1,9 @@
+{
+"origin" : [ "girl in her mid to late twenties: my high paying job as a #random job# suddenly bores me, time to go back to my hometown, #hometown#, this Christmas \n#man#, the #adjective# that she knew from #place#: hey \ngirl: i've suddenly learned how to #reaction# "],
+"random job" : ["guinea pig salesman", "taffy stretcher", "gingerbread house baker", "top dollar lawyer", "boss at a paper firm", "chair tester", "hair comber", "backpack tester", "baby formula taste tester", "high class business exec", "CEO", "partner in a law firm" ],
+"hometown" : ["Chestnut Grove", "Sleepy Hollow", "the North Pole", "Kettle Falls", "Stockholm", "Springfield", "Jackson Grove", "Christmas Town" ],
+"man" : ["Josh", "Chad", "Mark", "Joseph", "Brad", "Liam", "Mason", "Ryan", "Michael", "Chris", "Rob", "Steven", "Brett", "Cam", "Dylan", "Alex", "Brady", "Will", "Matt", "Noah", "James", "Ben", "Sebastian", "Oliver", "Logan", "John", "Owen", "Landon", "Grayson", "Brent", "Devin", "Hunter"],
+"adjective" : ["tall buff policeman", "strong sweet gym teacher", "shy smart bookstore clerk", "tall dark and handsome streetlight repairman", "blonde surfer", "lanky lumberjack", "suave school teacher", "talented handsome baker" ],
+"place" : ["preschool", "kindergarten", "first grade", "second grade", "third grade", "fourth grade", "fifth grade", "sixth grade", "seventh grade", "eighth grade", "freshmen year of high school", "sophomore year of high school" ],
+"reaction" : ["cry in front of others", "feel", "laugh", "smile", "bond with others", "love", "connect to others", "open up", "appreciate life", "love others again", "tell my loved ones how I feel", "not take my family for granted" ]
+}

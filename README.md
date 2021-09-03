@@ -1,2 +1,5 @@
 # hallmarksims
 This is the code for my [@hallmarksims](https://twitter.com/hallmarksims) Twitter bot.
+
+I created this Twitter bot to show the comedic repetition in Hallmark Christmas movies. I think it's really funny how most of the movies follow the same formula as far as the plots, the main characters, and the general themes. I thought it would be interesting to see the randomly generated "Christmas movies" that my code creates, and I think the results are pretty accurate. I tried to change up things like the main character's job, the love interest's name, and even the town the movie is taking place in. After reading a couple of the generated tweets, I think my original goal is definitely achieved, as the formulaic plots are pretty funny and the repetition serves its purpose. 
+For the number of calculations, I multiplied the number of options for each variable against each other, and my final total is 3,538,944, which surpasses the 100,000 goal for the assignment. Overall, I am very happy with how the bot turned out, and it has sparked lots of ideas for future bots I hope to make!
